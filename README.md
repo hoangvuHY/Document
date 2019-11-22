@@ -20,4 +20,4 @@ http://zetcode.com/java/imageicon/
 
 Bọn e tìm trên cách trang web này để tham khảo cách thức của các class, phương thức
 
-Còn lại là cần những gì thì search google
+Còn lại là cần những gì thì bọn em search google
