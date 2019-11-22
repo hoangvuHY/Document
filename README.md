@@ -18,6 +18,6 @@ https://viettuts.vn/java-thread/tao-thread-trong-java
 https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html#:~:targetText=Class%20Graphics&targetText=The%20Graphics%20class%20is%20the,rendering%20operations%20that%20Java%20supports.
 http://zetcode.com/java/imageicon/
 
-Bọn e tìm trên cách trang web này để tham khảo cách thức của các class, phương thức
+Bọn e tìm trên các trang web này để tham khảo cách thức của các class và các phương thức của chúng. Xem cách sử dụng của chúng.
 
-Còn lại là cần những gì thì bọn em search google
+Còn đầu là tự làm.
