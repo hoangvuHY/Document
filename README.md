@@ -4,6 +4,8 @@ I)	  PHÂN CÔNG
   Thực làm phần Enemy
   Vũ làm phần Tower
   Còn lại là code chung cùng nhau
+
+
 II) Link tham khảo
 
 https://www.geeksforgeeks.org/mouselistener-mousemotionlistener-java/?fbclid=IwAR3qdxJrL2B0R0bTgeFoHLaXYrjgdeMFbbvqRhZpkl0xTWEffDwHXH0pGiA
@@ -17,4 +19,5 @@ https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html#:~:targetText=C
 http://zetcode.com/java/imageicon/
 
 Bọn e tìm trên cách trang web này để tham khảo cách thức của các class, phương thức
+
 Còn lại là cần những gì thì search google
