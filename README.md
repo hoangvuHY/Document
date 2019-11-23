@@ -1,7 +1,10 @@
 # Document
 
 I)	  PHÂN CÔNG
+
   Thực làm phần Enemy
+
+
   Vũ làm phần Tower
   Còn lại là code chung cùng nhau
 
